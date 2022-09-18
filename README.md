@@ -5,7 +5,7 @@
 [^ These icons are one of my projects!](https://nghaninn.com)
 
 <a href="https://github.com/nghaninn/nghaninn">
-  <img align="top" src="https://streak-stats.demolab.com?user=nghaninn&theme=dark&background=000000" />
+  <img align="top" src="https://streak-stats.demolab.com?user=nghaninn&theme=dark&background=000000&hide_border=true" />
 </a>
 
 <details>
@@ -20,9 +20,12 @@
   <a href="https://github.com/nghaninn/nghaninn">
     <img style="max-width: 100%;width: 450px;" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=nghaninn" />
   </a>
+  
   ![](https://komarev.com/ghpvc/?username=nghaninn&color=green)
 </details>
 
+---
+## Connect With Me
 <a href="https://linkedin.nghaninn.com">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
