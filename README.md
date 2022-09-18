@@ -2,7 +2,7 @@
 **I'm Han (he/him)** - I'm a fullstack developer based in Singapore. I'm interested in development, tech and blockchain.
 
 [![SkillIcons](https://skillicons.dev/icons?i=aws,react,nodejs,mysql,dynamodb,html,sass,cloudflare,dotnet,php,py,prisma,docker&theme=dark)](https://skillicons.dev)<br/>
-[^ These icons are one of my projects!](nghaninn.com)
+[^ These icons are one of my projects!](https://nghaninn.com)
 
 <a href="https://github.com/nghaninn/nghaninn">
   <img align="top" src="https://streak-stats.demolab.com?user=nghaninn&theme=dark&background=000000" />
