@@ -1,3 +1,9 @@
-<a href="https://github.com/josefaidt/josefaidt">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghaninn&count_private=true&hide_border=true&layout=compact&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117" />
+<a href="https://github.com/nghaninn/nghaninn">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghaninn&count_private=true&hide_border=true&layout=compact&theme=jolly" />
+</a>
+<a href="https://github.com/nghaninn/nghaninn">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=nghaninn&count_private=true&show_icons=true&theme=jolly" />
+</a>
+<a href="https://github.com/nghaninn/nghaninn">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=nghaninn" />
 </a>
