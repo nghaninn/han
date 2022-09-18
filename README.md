@@ -1,3 +1,7 @@
+
+<a href="https://github.com/nghaninn/nghaninn">
+  <img align="top" src="https://streak-stats.demolab.com?user=nghaninn&theme=dark&background=000000" />
+</a>
 <a href="https://github.com/nghaninn/nghaninn">
   <img style="max-width: 100%;width: 450px;" wdith="450px" src="https://github-readme-stats.vercel.app/api?username=nghaninn&count_private=true&show_icons=true&theme=jolly" />
 </a>
