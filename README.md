@@ -20,4 +20,9 @@
   <a href="https://github.com/nghaninn/nghaninn">
     <img style="max-width: 100%;width: 450px;" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=nghaninn" />
   </a>
+  ![](https://komarev.com/ghpvc/?username=nghaninn&color=green)
 </details>
+
+<a href="https://linkedin.nghaninn.com">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
