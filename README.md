@@ -29,3 +29,11 @@
 <a href="https://linkedin.nghaninn.com">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
+
+<a href="https://www.hackerrank.com/nghaninn">
+  <img src="https://img.shields.io/badge/HackerRank-%20-green?style=for-the-badge&logo=HackerRank" />
+</a>
+
+<a href="https://leetcode.com/nghaninn/">
+  <img src="https://img.shields.io/badge/Leetcode-%20-green?style=for-the-badge&logo=LeetCode" />
+</a>
