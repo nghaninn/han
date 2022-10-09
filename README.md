@@ -1,12 +1,11 @@
 # Hey There! 👋
+
 **I'm Han (he/him)** - I'm a fullstack developer based in Singapore. I'm interested in development, tech and blockchain.
 
-[![SkillIcons](https://skillicons.dev/icons?i=aws,react,nodejs,mysql,dynamodb,html,sass,cloudflare,dotnet,php,py,prisma,docker&theme=dark)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=aws,react,nodejs,mysql,dynamodb,html,sass,cloudflare,dotnet,php,py,prisma,docker&theme=dark)](https://skillicons.dev)  
 [^ These icons are one of my projects!](https://nghaninn.com)
 
-<a href="https://github.com/nghaninn/nghaninn">
-  <img align="top" src="https://streak-stats.demolab.com?user=nghaninn&theme=dark&background=000000&hide_border=true" />
-</a>
+[![Streak Stats](https://streak-stats.demolab.com?user=nghaninn&theme=dark&background=000000&hide_border=true)](https://github.com/nghaninn/nghaninn)
 
 <details>
   <summary>⚡ Other Github Stats ⚡</summary>
@@ -16,24 +15,19 @@
   </a>
   <a href="https://github.com/nghaninn/nghaninn">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghaninn&count_private=true&hide_border=true&layout=compact&theme=jolly" />
-  </a>
+  </a>  
+    
   <a href="https://github.com/nghaninn/nghaninn">
     <img style="max-width: 100%;width: 450px;" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=nghaninn" />
   </a>
   
-  ![](https://komarev.com/ghpvc/?username=nghaninn&color=green)
+  ![Counter](https://komarev.com/ghpvc/?username=nghaninn&color=green)  
 </details>
 
----
+----
+
 ## Connect With Me
-<a href="https://linkedin.nghaninn.com">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
 
-<a href="https://www.hackerrank.com/nghaninn">
-  <img src="https://img.shields.io/badge/HackerRank-%20-green?style=for-the-badge&logo=HackerRank" />
-</a>
-
-<a href="https://leetcode.com/nghaninn/">
-  <img src="https://img.shields.io/badge/Leetcode-%20-green?style=for-the-badge&logo=LeetCode" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.nghaninn.com)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%20-green?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/nghaninn)  
+[![LeetCode](https://img.shields.io/badge/Leetcode-%20-green?style=for-the-badge&logo=LeetCode)](https://leetcode.com/nghaninn/)  
