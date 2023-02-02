@@ -7,8 +7,12 @@
 
 [![Streak Stats](https://streak-stats.demolab.com?user=nghaninn&theme=dark&background=000000&hide_border=true)](https://github.com/nghaninn/nghaninn)
 
+[![wakatime](https://wakatime.com/badge/user/6ffacce1-4f4f-4e6d-88ef-bcf35266382d.svg)](https://wakatime.com/@6ffacce1-4f4f-4e6d-88ef-bcf35266382d)
+
 <details>
   <summary>⚡ Other Github Stats ⚡</summary>
+  
+  [![wakatime](https://wakatime.com/share/@nghaninn/4c6d0ed5-07a6-4d68-8e79-fe3213ce49f4.svg)](https://wakatime.com/@6ffacce1-4f4f-4e6d-88ef-bcf35266382d)
   
   <a href="https://github.com/nghaninn/nghaninn">
     <img style="max-width: 100%;width: 450px;" wdith="450px" src="https://github-readme-stats.vercel.app/api?username=nghaninn&count_private=true&show_icons=true&theme=jolly" />
