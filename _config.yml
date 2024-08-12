@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: Han's Github Page
-description: for testing
+auto: true
+include: [".well-known"]
