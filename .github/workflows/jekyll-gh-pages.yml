@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: nghaninn.github.io
+      url: https://nghaninn.github.io/
     runs-on: ubuntu-latest
     needs: build
     steps:
