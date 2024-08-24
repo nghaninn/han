@@ -1,10 +1,10 @@
 {
-  "id": "did:web:nghaninn.github.io",
+  "id": "did:web:nghaninn.github.io:nghaninn:did:1",
   "verificationMethod": [
     {
       "type": "Bls12381G2Key2020",
-      "id": "did:web:nghaninn.github.io#keys-1",
-      "controller": "did:web:nghaninn.github.io",
+      "id": "did:web:nghaninn.github.io:nghaninn:did:1#keys-1",
+      "controller": "did:web:nghaninn.github.io:nghaninn:did:1",
       "publicKeyBase58": "rDAqEpT2FJspbHL9gM1utkT2UNADn59HMiouSLoktZw8B1GsKyXB3Wd5fgDucCbMDRLcQhWHEuQrrKSf7P2NyqgFwHGbzNQ9X8EPbXakSr2cbqLghmzkGvE4ppEHVkBYc83"
     }
   ],
@@ -13,15 +13,15 @@
     "https://w3id.org/security/suites/bls12381-2020/v1"
   ],
   "authentication": [
-    "did:web:nghaninn.github.io#keys-1"
+    "did:web:nghaninn.github.io:nghaninn:did:1#keys-1"
   ],
   "assertionMethod": [
-    "did:web:nghaninn.github.io#keys-1"
+    "did:web:nghaninn.github.io:nghaninn:did:1#keys-1"
   ],
   "capabilityInvocation": [
-    "did:web:nghaninn.github.io#keys-1"
+    "did:web:nghaninn.github.io:nghaninn:did:1#keys-1"
   ],
   "capabilityDelegation": [
-    "did:web:nghaninn.github.io#keys-1"
+    "did:web:nghaninn.github.io:nghaninn:did:1#keys-1"
   ]
 }
